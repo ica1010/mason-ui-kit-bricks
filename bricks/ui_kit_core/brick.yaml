@@ -14,7 +14,7 @@ version: 0.3.0+3
 # It includes the version of mason that the brick requires.
 environment:
   #
-  mason: any
+  mason: ">=0.1.0-dev.50 <0.2.0"
 
 
 # Variables specify dynamic values that your brick depends on.
